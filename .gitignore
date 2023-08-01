@@ -1,0 +1,27 @@
+# Arquivos gerados pelo Next.js
+.next/
+
+# Dependências
+node_modules/
+
+# Arquivos de build
+out/
+
+# Arquivos temporários
+*.tmp
+
+# Arquivos de log
+*.log
+
+# Arquivos de cache
+.cache/
+
+# Arquivos de compilação
+*.o
+*.out
+
+# Arquivos de configuração locais (opcional, se aplicável)
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
